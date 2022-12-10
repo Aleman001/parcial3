@@ -1,4 +1,3 @@
-Pagina1.php
 <form method="post"
 action="pagina2.php">
 Por favor,envía la newsletter a:<br/>
